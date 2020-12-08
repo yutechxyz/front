@@ -15,11 +15,11 @@
     "noEmit": true,
     "baseUrl": "./",
     "paths": {
-      "~/*": [
-        "src/*"
-      ],
       "@/*": [
         "src/*"
+      ],
+      "@@/*": [
+        "test/*"
       ]
     },
     "types": [

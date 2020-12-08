@@ -6,7 +6,7 @@
 
 <script lang="ts">
 import { defineComponent } from "@vue/composition-api";
-import CompositionSample from "~/components/CompositionSample.vue";
+import CompositionSample from "@/components/CompositionSample.vue";
 export default defineComponent({
   components: {
     CompositionSample

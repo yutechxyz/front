@@ -1,7 +1,7 @@
 module.exports = {
   moduleNameMapper: {
     '^@/(.*)$': '<rootDir>/src/$1',
-    '^~/(.*)$': '<rootDir>/src/$1',
+    '^@@/(.*)$': '<rootDir>/test/$1',
     '^vue$': 'vue/dist/vue.common.js'
   },
   testRegex: '(/__tests__/.*|(\\.|/)(test|spec))\\.(jsx?|tsx?)$',
