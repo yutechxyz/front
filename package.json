@@ -19,10 +19,12 @@
     "@nuxt/types": "^2.14.10",
     "@nuxt/typescript-build": "^2.0.3",
     "@nuxtjs/vuetify": "^1.11.2",
+    "@types/jest": "^26.0.17",
     "@vue/test-utils": "^1.1.0",
     "babel-core": "7.0.0-bridge.0",
     "babel-jest": "^26.5.0",
     "jest": "^26.5.0",
+    "ts-jest": "^26.4.4",
     "vue-jest": "^3.0.4"
   }
 }
