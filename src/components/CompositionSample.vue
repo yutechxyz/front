@@ -1,6 +1,6 @@
 <template>
   <div>
-    {{ fullName }}
+    <div data-test="full-name">{{ fullName }}</div>
   </div>
 </template>
 

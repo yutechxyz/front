@@ -26,12 +26,12 @@
       "@types/node",
       "@nuxt/types",
       "vuetify",
-      "@types/jest",
+      "@types/jest"
     ],
     "experimentalDecorators": true
   },
   "files": [
-    "shims-vue.d.ts",
+    "shims-vue.d.ts"
   ],
   "exclude": [
     "node_modules"
